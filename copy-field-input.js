@@ -2,9 +2,9 @@
 
 window.addEventListener('load', function(){
 
-var sourceControlId = 41171190, /** THE ID OF THE SENDER CONTROL */
+var sourceControlId = 93293188, /** THE ID OF THE SENDER CONTROL */
 
-targetControlId = 41171191, /** THE ID OF THE RECEIVER CONTROL **/
+targetControlId = 93324848, /** THE ID OF THE RECEIVER CONTROL **/
 
 sourceControlInstance = loader.getEngine().getDocument().getElementById(sourceControlId),
 
